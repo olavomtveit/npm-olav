@@ -2,6 +2,6 @@
 
 This function will return my name.
 
-``` `bash
+```bash
 npm install
 ``` 
